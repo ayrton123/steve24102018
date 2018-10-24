@@ -1,0 +1,10 @@
+Solution for step 3
+
+FileRefferReport.aspc.cs
+
+protected void Page_Load(object sender, EventArgs e)
+
+The document name is a guid name not an image.
+
+look to see if file exists in path D:\\Transient\\Reps\\ and process if necessary optherwise ignore
+
